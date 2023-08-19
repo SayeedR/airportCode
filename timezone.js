@@ -1,4 +1,4 @@
-const list = [
+const timeZoneList = [
 
         {
             "IATA":ATL,
